@@ -1,0 +1,12 @@
+references:
+  - "https://en.wikipedia.org/wiki/Peugeot_408"
+
+generations:
+  - name: "First Generation (T7)"
+    start_year: 2010
+    end_year: 2022
+    description: "A sedan on the 308's PSA PF2 platform, built for China, Russia and South America."
+  - name: "Second Generation (P54)"
+    start_year: 2022
+    end_year: null
+    description: "A fastback crossover on the EMP2 platform, with PureTech gasoline, plug-in hybrid and electric versions."
